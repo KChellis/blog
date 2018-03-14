@@ -1,7 +1,13 @@
+html {
+  box-sizing: border-box;
+}
 .post1 {
   color: purple;
   font-size: 20px;
   font-family: sans-serif;
+  margin: 20px 10px;
+  padding: 20px 10px;
+  border: 10px solid green;
 }
 
 .post2{
@@ -9,10 +15,16 @@
   font-size: 25px;
   font-family: monospace;
   background-color: gray;
+  margin: 20px 10px;
+  padding: 20px 10px;
+  border: 10px solid purple;
 }
 .about{
   font-style: italic;
   font-weight: lighter;
+  margin: 20px 10px;
+  padding: 20px 10px;
+  border: 10px solid blue;
 }
 h1{
   font-size: 70px;
